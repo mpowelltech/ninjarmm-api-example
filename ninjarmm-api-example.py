@@ -8,6 +8,12 @@ import hashlib
 import hmac
 import base64
 
+__author__ = "Matthew Powell, YesIT"
+__license__ = "MIT"
+__version__ = "1.0"
+__email__ = "contact@mpowell.tech"
+__status__ = "Last Updated: 2020-04-15"
+
 # api-endpoint
 api_url = "http://api.ninjarmm.com"
 
